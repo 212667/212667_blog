@@ -1,11 +1,10 @@
 ---
 title: "About Me"
 author:
-  - name: "___" 
+  - name: "Clemence Coquillart" 
 date: "`r Sys.Date()`"
 output: distill::distill_article
 ---
 
-This section must bu include a short presentation of you.
+Hi ! I am Clémence Coquillart, I am 21 years old and I study Biology at the University of Mons in Belgium. I created this blog in the context of "Sciences des données I" (2020-2021) given by Mr. Grosjean. 
 
-- first name/surname, teacher’s name, class name and academic year
