@@ -1,5 +1,5 @@
 ---
-title: "Clemence Coquillart (212667)'s blog"
+title: "Clemence Coquillart (212667)'s Blog"
 site: distill::distill_website
 listing: posts
 ---
