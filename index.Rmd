@@ -1,5 +1,5 @@
 ---
-title: "212667's Blog"
+title: "List of posts:"
 site: distill::distill_website
 listing: posts
 ---
@@ -7,4 +7,11 @@ listing: posts
 ```{r, echo = FALSE, eval = FALSE}
 #distill::create_post("my post") # use this fonction to create a new post
 ```
+  
+.  
+  
+# Home page
 
+Hi everyone,
+
+Here are my articles, enjoy !

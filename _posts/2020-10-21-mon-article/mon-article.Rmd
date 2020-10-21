@@ -1,0 +1,46 @@
+---
+title: "The Common Blue"
+description: |
+  This article is about the Common Blue Butterfly. 
+author:
+  - name: Clemence Coquillart
+    url: {}
+date: "`r Sys.Date()`"
+preview: Common_blue_butterfly_(Polyommatus_icarus)_male_3.jpg
+output:
+  distill::distill_article:
+    self_contained: false
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+# Identity
+
+## Classification
+
+The **Common Blue butterfly** or the *Polyommatus icarus* belongs to the family of the **Lycaenidae** and to the subfamily of the **Polyommatinae**.  
+
+![](Common_blue_butterfly_(Polyommatus_icarus)_male_3.jpg)
+This image is taken from Wikipedia.
+
+## Geographic range
+
+These flying insects are found mostly in Europe, North Africa, the Canary Islands, and east across the Palearctic to Northern China. These butterflies inhabit flowery or grassy places, warm or cool, in woodland clearings, sand dunes, under cliffs, etc. 
+
+# Food
+
+The comparison between the larvae and the adult is exposed in the table below.
+
+### Table 
+
+Food|Larvae|Adult
+-|----|----
+Plants| *Leguminosae* (bean family).|Drink nectar from flat-headed flowers.
+Details| *Lathyrus* species, *Vicia* species, *Vicia cracca*,*Oxytropis campestris*, bird's foot trefoil (Lotus corniculatus), etc.|Sequester flavonoids from their host plants and allocate them into their wings.
+
+# Description
+
+The Common Blue is 28–36 millimetres tall. Its wings are blue or lilac blue or even violet. 
+
