@@ -13,7 +13,7 @@ base_url: 212667.github.io/212667_blog/
 collections:
     posts:
       share: [twitter, linkedin, facebook]
-      #disqus:212667-blog
+      disqus: 212667-blog
 output:
   distill::distill_article:
     css: style.css
