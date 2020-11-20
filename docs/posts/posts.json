@@ -1,5 +1,22 @@
 [
   {
+    "path": "posts/2020-11-18-graphicdescription/",
+    "title": "(graphic_description)",
+    "description": "A short analyse of some data about zooplankton.",
+    "author": [
+      {
+        "name": "Clemence Coquillart",
+        "url": {}
+      }
+    ],
+    "date": "2020-11-18",
+    "categories": [
+      "Data Sciences I"
+    ],
+    "preview": {},
+    "last_modified": "2020-11-20T17:50:53+01:00"
+  },
+  {
     "path": "posts/2020-10-21-mon-article/",
     "title": "The Common Blue",
     "description": "This article is about the Common Blue Butterfly.",
