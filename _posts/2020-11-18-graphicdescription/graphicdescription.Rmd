@@ -17,7 +17,7 @@ categories  :
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
-```{r setup}
+```{r setupp}
 SciViews::R
 ```
 
@@ -27,7 +27,7 @@ data <- data("zooplankton", package = "data.io")
 
 # Introduction 
 
-Here are a short analyse about the morphology of zooplankton. Most especially about the area they occupy and their size. The graphic I propose will show us if it exist a link between these two characteristics. 
+Here is a short analyse about the morphology of zooplankton. Most especially about the area they occupy and their size. The graphic I propose will show us if a link exists between these two characteristics. 
 
 # Analyse
 
@@ -41,6 +41,6 @@ chart(data = zooplankton, area ~ size %col=% class) +
   geom_point(alpha = 0.5)
 ```
   
-  We can observe that there is indeed a link between the size and the area. The more zooplankton occupy a high area, the more they have a big size. The evolution tend to be exponential. We can also see that the class of the Chaetognath is the class that have the biggest size while occupying a short area in contrast with the other classes. The biggest zooplankton that can reach the biggest connection between the area and the size are from the class "Chidarian". 
+  We can observe that there is indeed a link between the size and the area. The more zooplankton occupy a high area, the more they have a big size. The evolution tends to be exponential. We can also see that the class of the Chaetognath is the class that has the biggest size while occupying a short area in contrast with the other classes. The biggest zooplankton that can reach the biggest connection between the area and the size are from the class "Chidarian". 
 
 .
